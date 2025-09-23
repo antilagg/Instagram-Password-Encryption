@@ -35,4 +35,4 @@ print(enc)
 
 ### Note
 
-- use only for educational purposes 👌
+- use only for educational purposes 👌!
